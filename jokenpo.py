@@ -10,7 +10,6 @@ def jogo_start():
     pts_player=0
 
     while True:
-        n_jogadas += 1
         header=' | '.join(['['+str(opt.index(i))+']'+i for i in opt])
         print(f'{"="*44}\n{header}\n{"="*44}')
         computer=randint(0,2)
@@ -21,6 +20,9 @@ def jogo_start():
             print(f'Computer won \t{pts_computer} times.')
             print(f'You won \t{pts_player} times.')
             break
+        else:
+            n_jogadas += 1
+
         player=int(player)
         sleep(1)
         print('-JAN...')
