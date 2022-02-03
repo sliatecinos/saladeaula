@@ -9,3 +9,5 @@
 [4. Limiar da Soma da Diagonal (Matriz Quadrada)](https://github.com/sliatecinos/saladeaula/blob/master/limiar_matriz_quadrada.py)
 
 [5. Jogo Jokenpô (ou "JAN KEN PON")](https://github.com/sliatecinos/saladeaula/blob/master/jokenpo.py)
+
+[6. YouTube downloader (MP4 para MP3)](https://github.com/sliatecinos/saladeaula/blob/master/youtube_mp3.py)
