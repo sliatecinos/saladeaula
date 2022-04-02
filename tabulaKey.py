@@ -1,6 +1,8 @@
 # _*_ coding: utf-8 _*_
-# Post: https://www.facebook.com/photo.php?fbid=303631988335745&set=p.303631988335745&type=3
-
+# ================================================================================================
+# Tabula Key :: github.com/sliatecinos
+# Ref.externa: https://www.facebook.com/photo.php?fbid=303631988335745&set=p.303631988335745&type=3
+# ================================================================================================
 
 def tabulaKey():
     letras = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
