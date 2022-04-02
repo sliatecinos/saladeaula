@@ -1,6 +1,6 @@
-# YouTube Downloader (.MP4 para .MP3)
-# ===================================
-
+# ================================================================
+# YouTube Downloader (.MP4 para .MP3)  :: github.com/sliatecinos
+# ================================================================
 
 from pytube import YouTube
 from pydub import AudioSegment
