@@ -13,3 +13,5 @@
 [6. YouTube downloader (MP4 para MP3)](https://github.com/sliatecinos/saladeaula/blob/master/youtube_mp3.py)
 
 [7. Lanchonete (Dict)](https://github.com/sliatecinos/saladeaula/blob/master/lanchonete_dict.py)
+
+[8. Umbrella Logo (Turtle lib)](https://github.com/sliatecinos/saladeaula/blob/master/umbrella_turtle.py)
