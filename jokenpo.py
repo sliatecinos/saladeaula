@@ -1,3 +1,4 @@
+# JAN KEN PO game :: github.com/sliatecinos
 # _*_ coding: utf-8 _*_
 from random import randint
 from time import sleep
