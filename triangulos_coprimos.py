@@ -1,6 +1,8 @@
 # _*_ coding: utf-8 _*_
-# Gere os 100 primeiros triangulos de pitagoras que os catetos e hipotenusa
-# sao coprimos entre si (MDC==1)
+# ================================================================
+# Triangulos Coprimos :: github.com/sliatecinos
+# ================================================================
+# Gere os 100 primeiros triangulos de pitagoras que os catetos e hipotenusa sao coprimos entre si (MDC==1)
 # Ref. externa: https://pt.quora.com/O-que-s%C3%A3o-os-tri%C3%A2ngulos-pitag%C3%B3ricos-e-como-calcul%C3%A1-los
 
 # Definicao de MDC (terno de co-Primos):
