@@ -1,4 +1,7 @@
-# https://www.facebook.com/photo?fbid=1192347487967823&set=gm.2109373895911142
+# Menu de Lanchonete (usando dicionário) :: github.com/sliatecinos
+# =================================================================
+# Ref.externa: https://www.facebook.com/photo?fbid=1192347487967823&set=gm.2109373895911142
+
 # Menu de itens
 dict_itens = {
     '100': ['Cachorro-quente', 9.00],
