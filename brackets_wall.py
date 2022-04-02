@@ -1,4 +1,7 @@
-# https://www.facebook.com/groups/pypcom/permalink/1668364116833984/
+# Muro de tijolos (colchetes) :: github.com/sliatecinos
+# =====================================================
+# Ref. externa : https://www.facebook.com/groups/pypcom/permalink/1668364116833984/
+
 tijolo_curto = '[ ]'
 tijolo_longo = '[    ]'
 
