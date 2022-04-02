@@ -1,4 +1,6 @@
-# https://www.facebook.com/groups/608492105999336/permalink/2061101090738423/
+# Limiar da Matriz Quadrada :: github.com/sliatecinos
+# ================================================================================
+# Ref.externa: https://www.facebook.com/groups/608492105999336/permalink/2061101090738423/
 
 # Entradas do usuario (lado, limiar, ordem da matriz)
 lado_diagonal = input('Estarao "acima" ou "abaixo" da diagonal?: ')
