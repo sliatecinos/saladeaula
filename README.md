@@ -10,7 +10,7 @@
 
 [5. Jogo Jokenpô (ou "JAN KEN PON")](https://github.com/sliatecinos/saladeaula/blob/master/jokenpo.py)
 
-[6. YouTube downloader (MP4 para MP3)](https://github.com/sliatecinos/saladeaula/blob/master/youtube_mp3.py)
+[6. YouTube downloader (MP4 para MP3)\[Pytube/Pydub\]](https://github.com/sliatecinos/saladeaula/blob/master/youtube_mp3.py)
 
 [7. Lanchonete (Dict)](https://github.com/sliatecinos/saladeaula/blob/master/lanchonete_dict.py)
 
