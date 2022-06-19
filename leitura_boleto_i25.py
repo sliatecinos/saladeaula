@@ -26,7 +26,7 @@ def decode_codigo(codigo):
     im = cv2.imread(codigo, cv2.IMREAD_GRAYSCALE)
     _, bw_im = cv2.threshold(im, 127, 255, cv2.THRESH_BINARY)
     cod_decoded = decode(bw_im, symbols=[ZBarSymbol.I25])
-    return wrap(cod_decoded[0][0].decode('UTF-8'), 11)   # wrap usado pra dividir a string em "partes-n"
+    return wrap(cod_decoded[0][0].decode('UTF-8'), 11)   # wrap usado pra quebrar string em partes "tamanho-n"
 
 
 cd_barras = 'boleto_claro.png'
