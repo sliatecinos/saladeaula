@@ -32,3 +32,5 @@ def decode_codigo(codigo):
 cd_barras = 'boleto_claro.png'
 codigo_decoded = decode_codigo(cd_barras)
 print('.'.join(ult_dig(codigo_decoded)))
+
+## Outputs: "858200000260.178601801205.529544183860.673925100017"
