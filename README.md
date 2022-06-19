@@ -15,3 +15,5 @@
 [7. Lanchonete (Dict)](https://github.com/sliatecinos/saladeaula/blob/master/lanchonete_dict.py)
 
 [8. Umbrella Logo (Turtle lib)](https://github.com/sliatecinos/saladeaula/blob/master/umbrella_turtle.py)
+
+[9. Leitura de Código Barras "I25"](https://github.com/sliatecinos/saladeaula/blob/master/leitura_boleto_i25.py)
